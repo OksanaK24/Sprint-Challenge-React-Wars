@@ -5,4 +5,12 @@
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
+
+.Person{
+  width: 800px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
 /* write your parent styles in here for your App.js */
